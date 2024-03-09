@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1710022241 source:c:\users\developer\desktop\all\courses\bootcamp\c\simulateur_de_prêt_immobilier__chaabi_lil_iskane\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
